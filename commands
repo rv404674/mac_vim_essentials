@@ -1,0 +1,6 @@
+# for mac
+
+vi $HOME/.vimrc
+
+# to install plugin after adding it to vimrc
+vim +PluginInstall +qall
